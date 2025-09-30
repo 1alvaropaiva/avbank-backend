@@ -1,4 +1,4 @@
-<h1 style="font-size:50px" align="center">AvBank</h1>
+<h1 style="font-size:50px" align="center">AvBank (API)</h1>
 
 ## Descrição
 API que simula um sistema bancário simples, capaz de processar depósitos, saques e transferências, além de criar e excluir contas e realizar login/logout.
